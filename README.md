@@ -74,10 +74,6 @@ run_pipeline.bat
 ```
 3d-material-pipeline/
 ├── combined_pipeline.py          # Main pipeline script
-├── test_pipeline_8lightings.py   # Configuration test
-├── test_pipeline_verification.py # Verification test
-├── simple_verification.py        # Simple verification
-├── run_pipeline.bat             # Windows batch runner
 ├── README.md                    # This file
 └── output/                      # Generated output
     ├── object_name/
@@ -236,3 +232,4 @@ For issues and questions:
 ---
 
 **Happy Rendering! 🎬✨**
+
